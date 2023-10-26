@@ -1,0 +1,10 @@
+total 44
+-rw-r--r-- 1 codio codio    45 Sep 27  2020 Makefile
+-rw------- 1 codio codio   453 Oct 26 00:58 outfile
+-rw-r--r-- 1 codio codio  2353 Feb  4  2019 README.md
+-rwxrwxr-x 1 codio codio 14406 Oct 26 00:58 shell
+-rw-r--r-- 1 codio codio  9735 Oct 26 00:57 shell.c
+-rw-r--r-- 1 codio codio   232 Sep 27  2020 testData
+drwxr-xr-x 1 codio codio    36 Oct 17 16:13 testDir1
+drwxr-xr-x 1 codio codio    20 Oct 17 16:13 testDir2
+0 Oct 17 16:13 testDir2
